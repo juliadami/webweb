@@ -1,0 +1,42 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+h3{
+    color: pink;
+}
+ul{
+    justify-content: center;
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: .7rem;
+}
+a{
+    border-radius: .3rem;
+    background-color: blue;
+    padding: .7rem;
+    text-decoration: none;
+    color: white;
+}
+section{
+    background-color: aliceblue;
+    width: 70%;
+    margin: auto;
+    padding: 2rem;
+    font: 1.5rem monospace;
+    border-radius: 1rem;
+}
+img{
+    border-radius: 100%;
+    max-width: 450px;
+}
+#botao{
+    width: 5rem;
+    font-size: large;
+}
+select{
+    width: 11rem;
+    margin: 2rem;
+}
